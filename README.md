@@ -125,6 +125,11 @@ Note 2: Switch on rotation mode and use the phone in the landscape mode to bette
   
   
   
-
+-----------
+  
+  you can refer
+  
+  https://www.youtube.com/watch?v=bs2oHg0J44Y
+  
   
   
