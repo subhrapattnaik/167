@@ -131,5 +131,15 @@ Note 2: Switch on rotation mode and use the phone in the landscape mode to bette
   
   https://www.youtube.com/watch?v=bs2oHg0J44Y
   
+  ----------------
   
+  take the original image to your mobile ,and show that image to the computer camera after running index.html.
+  
+  it takes sometime to load
+  
+  after sometime
+  
+  click -to play the audio
+  click -to pausa
+  ---------------------
   
