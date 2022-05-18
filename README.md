@@ -142,4 +142,8 @@ Note 2: Switch on rotation mode and use the phone in the landscape mode to bette
   click -to play the audio
   click -to pausa
   ---------------------
+  you can also refer
+  
+  https://ar-js-org.github.io/AR.js-Docs/
+  
   
