@@ -124,7 +124,7 @@ Note 1: The output video can be played and paused multiple times on touch.
 Note 2: Switch on rotation mode and use the phone in the landscape mode to better cover the video content.
   
   
-  
+  https://docs.google.com/document/d/1dlMry188llEJl6rHEc3AkBashQSOwGQ40HQft29S8vQ/edit
 -----------
   
   you can refer
