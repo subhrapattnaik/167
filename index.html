@@ -60,12 +60,12 @@
     arjs="trackingMethod: best; sourceType: webcam;debugUIEnabled: false;">
 
     <!-- static camera that moves according to the device movemenents -->
-    <a-entity id="camera" camera position="0 0 10"></a-entity>
+    <a-entity id="camera" camera position="0 0 50"></a-entity>
 
     <a-assets>
 
       <video id="video1" 
-        src="./assets/videos/Rocket_Launching_Animation.mp4"
+        src=".\assets\videos\Rocket_Launching_Animation.mp4"
         preload="auto"  
         loop="true" 
         playsinline
@@ -89,16 +89,20 @@
       smooth="true" 
       smoothCount="10" 
       smoothTolerance=".01"
-      smoothThreshold="5">
+      smoothThreshold="5"
+      side="double"
+      
+      >
   
       <!-- As a child of the a-nft entity, define the content to show. -->
   
       <a-video id="vid1" 
         src="#video1" 
-        width="600" 
-        height="509" 
-        position="0 0 -30" 
+        width="1600" 
+        height="1509" 
+        position="100 0 -50" 
         rotation="-90 0 0"
+        side="double"
         play-on-click>
       </a-video>
   
