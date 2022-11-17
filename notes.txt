@@ -4,3 +4,18 @@ https://www.groovypost.com/howto/fix-embedded-videos-not-playing-google-chrome/
 In some browsers the video doesnot work--only audio works
 
 so go to browser settings--> system --relaunch
+-------------
+
+video worked
+
+
+need to add 
+
+ side="double"
+ 
+ ---------------
+ 
+ also  position="100 0 -50"  and camera position
+ 
+ 
+ click
